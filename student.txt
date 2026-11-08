@@ -1,0 +1,5 @@
+Student name: Atalay Temel
+Student number: 767311
+Student class: 1B
+GitHub Repository: 
+GitHub Pages URL: 
